@@ -1,5 +1,4 @@
-# Desafio-CRUD
-# Sistema de Cadastro de Alunos em Java
+# Desafio-CRUD: Sistema de Cadastro de Alunos em Java
 
 ## Descrição
 
